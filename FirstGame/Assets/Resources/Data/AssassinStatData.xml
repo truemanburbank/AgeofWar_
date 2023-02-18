@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssassinStatData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" maxHp="9" attack="5" attackSpeed="1.0" defence="1" moveSpeed="3.0" reqGold="250" dropGold="150" range="0.7"/>

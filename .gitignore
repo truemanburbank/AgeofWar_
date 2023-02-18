@@ -9,6 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/UserSettings/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -42,6 +43,7 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.dwlt
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -58,3 +60,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+FirstGame/.vscode/
+FirstGame/Library/
+FirstGame/obj/
+FirstGame/Logs/
+FirstGame/Packages/
+FirstGame/UserSettings/
+FitstGame/Temp/

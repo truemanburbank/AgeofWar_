@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArcherStatData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" maxHp="8" attack="3" attackSpeed="0.5" defence="2" moveSpeed="4.0" reqGold="300" dropGold="200" range="5.0" />

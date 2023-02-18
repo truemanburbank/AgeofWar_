@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KnightStatData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" maxHp="10" attack="5" attackSpeed="0.7" defence="3" moveSpeed="3.0" reqGold="200" dropGold="100" range="0.7"/>

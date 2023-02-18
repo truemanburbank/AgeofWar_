@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StartData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" myMaxHp="100" enemyMaxHp="200" myGold="1000" enemyGold="1000" difficulty="0"/>
